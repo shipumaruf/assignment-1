@@ -1,9 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+
 /* banner-style-start */
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: "Azeret Mono";
+}
 .banner-continer{
 
     max-width: 1440px;
-height: 652px;
+
 margin: 0 auto;
 background-image: url(../B10A1-Challenge-Begins-main/assets/banner.png);
 margin-bottom: 74px;
@@ -19,28 +28,33 @@ margin-bottom: 74px;
 }
 .banner-cotaint h1{
     color:  rgb(13, 19, 33);;
-    font-size: 48px;
+    font-size: 38px;
     text-align: center;
+    margin-top: 32px;
 
 }
 .banner-cotaint p{
     color:  rgb(13, 19, 33);;
     font-size: 16px;
     text-align: center;
+    margin-top: 24px;
 
 }
 .contact-btn a{
     color: rgb(255, 255, 255);
     text-decoration: none;
    
+   
     
 }
 .contact-btn button{
     background-color: rgb(13, 19, 33);
-    padding: 21px 24px 21px 24px;
-    width: 208px;
-    height: 66px;
+    padding:  15px 20px 15px 20px;
+    width: 190px;
+    height: 50px;
     border-radius: 8px;
+    margin-top: 32px;
+    margin-bottom: 44px;
 }
 /* why-web-development start */
 
