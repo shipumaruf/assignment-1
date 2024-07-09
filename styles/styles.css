@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+/* banner-style-start */
+.banner-continer{
+
+    max-width: 1440px;
+height: 652px;
+margin: 0 auto;
+background-image: url(../B10A1-Challenge-Begins-main/assets/banner.png);
+margin-bottom: 74px;
+
+}
+.banner-cotaint{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   margin: 26px 221px 44px 221px;
+
+}
+.banner-cotaint h1{
+    color:  rgb(13, 19, 33);;
+    font-size: 48px;
+    text-align: center;
+
+}
+.banner-cotaint p{
+    color:  rgb(13, 19, 33);;
+    font-size: 16px;
+    text-align: center;
+
+}
+.contact-btn a{
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+   
+    
+}
+.contact-btn button{
+    background-color: rgb(13, 19, 33);
+    padding: 21px 24px 21px 24px;
+    width: 208px;
+    height: 66px;
+    border-radius: 8px;
+}
+/* why-web-development start */
+
+
+  .why-web-development{
+    
+  }  
