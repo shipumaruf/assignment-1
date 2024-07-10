@@ -279,3 +279,109 @@ margin-left: 30px;
     margin-bottom: 30px;
 }
 
+/* next-target-section-start */
+#next-target-section-container{
+width: 1140px;
+height: 868px;
+margin: 0 auto;
+margin-bottom: 44px;
+
+}
+
+#next-target-section-container .next-target-text h1{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 800;
+line-height: 37px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 24px;
+}
+#next-target-section-container .next-target-text p{
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+margin-bottom: 48px;
+}
+.all-containt .next-react,.next-node,.next-mongo{
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 16px;
+background: rgb(255, 255, 255);
+margin-bottom: 24px;
+padding: 27px
+
+
+}
+.all-containt h2{
+   margin-left: 150px; 
+
+
+}
+.all-containt p{
+    margin-left: 150px;
+}
+
+/* need support section start */
+
+#support-section{
+width: 1140px;
+height: 314px;
+margin: 0 auto;
+background-image: url('../B10A1-Challenge-Begins-main/assets/handshake.jpg');
+background-position: center;
+border-radius: 16px;
+margin-bottom: 79px;
+}
+.support-text-contain h1{
+color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 32px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0%;
+text-align: center;
+margin-top: 64px;
+margin-bottom: 16px;
+}
+.support-text-contain p{
+    color: rgb(255, 255, 255);
+font-family: Azeret Mono;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+
+}
+.support-input input{
+    width: 548px;
+height: 57px;
+border-radius: 8px;
+
+}
+.support-input button{
+    width: 120px;
+height: 58px;
+border-radius: 8px;
+
+}
+.support-input{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    gap: 10px;
+    
+}
+
+
+
+    
+
